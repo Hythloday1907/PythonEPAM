@@ -19,13 +19,15 @@ Output: 2, 1
 """
 from typing import List, Tuple
 
-def test_major_and_minor_elem(inp: List) -> Tuple[int, int]:
+def major_and_minor_elem(inp: List) -> Tuple[int, int]:
     counts = {}
+
     for num in inp:
         counts[num] = counts.get(num, 0) + 1
+
     major = max(counts, key=counts.get)
     minor = min(counts, key=counts.get)
     print(counts)
     print(major)
     print(minor)
-    return counts, major, minor
+    return  major, minor
