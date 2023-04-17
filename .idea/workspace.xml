@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed8edd-12d1-42b2-a3b7-2469de451b71" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonEPAM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonEPAM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +41,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/week5" />
       <recent name="$PROJECT_DIR$/Week_1/.pytest_cache" />
       <recent name="$PROJECT_DIR$/Week_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_hw2.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_hw4.py">
     <configuration name="hw22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonEPAM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,20 +91,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_hw1_pi.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonEPAM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_2_testmyself" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week_2_testmyself/test_hw1_pi.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_hw2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonEPAM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +102,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/Week_2_hw2/test_hw2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_hw4.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonEPAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week4/test_hw4.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_hw4.py" />
         <item itemvalue="Python tests.Python tests in test_hw2.py" />
         <item itemvalue="Python.test_hw2" />
         <item itemvalue="Python.hw22" />
         <item itemvalue="Python tests.Python tests in test_readFile.py" />
-        <item itemvalue="Python tests.Python tests in test_hw1_pi.py" />
       </list>
     </recent_temporary>
   </component>
