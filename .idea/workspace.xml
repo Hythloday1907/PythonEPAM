@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed8edd-12d1-42b2-a3b7-2469de451b71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week7/Week7hw1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module10/hw1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Week_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Week7hw1">
+  <component name="RunManager" selected="Python.hw1">
     <configuration name="Week7hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonEPAM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +73,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonEPAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module10/hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_hw3.test_custom_range" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonEPAM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,20 +106,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_hw3.test_custom_range&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_hw1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonEPAM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week3_hw1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week3_hw1/test_hw1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_hw2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw1" />
         <item itemvalue="Python.Week7hw1" />
         <item itemvalue="Python tests.Python tests in test_hw4.py" />
         <item itemvalue="Python tests.Python tests for test_hw3.test_custom_range" />
         <item itemvalue="Python tests.Python tests in test_hw2.py" />
-        <item itemvalue="Python tests.Python tests in test_hw1.py" />
       </list>
     </recent_temporary>
   </component>
