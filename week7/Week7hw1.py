@@ -1,9 +1,8 @@
 from sqlalchemy import create_engine, Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import declarative_base, sessionmaker
 
 # Define the database connection string
-db_string = "sqlite:///films_db.sqlite"
+db_string = "sqlite:///films.db"
 
 # Create an engine object to interact with the database
 engine = create_engine(db_string, echo=True)
@@ -51,4 +50,3 @@ for film in films:
 # Delete all data from table
 session.query(Film).delete()
 session.commit()
-
