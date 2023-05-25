@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed8edd-12d1-42b2-a3b7-2469de451b71" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/python_cdernek/April18/April18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week7/Week7hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/Week7hw1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week7/films_db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/week7/films_db.sqlite" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/hw4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/test_hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/test_hw4.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +47,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+<<<<<<< Updated upstream
     "last_opened_file_path": "/Users/Pinar_Ikizpinar/Documents/GitHub/PythonEPAM",
+=======
+    "last_opened_file_path": "/Users/Pinar_Ikizpinar/Documents/GitHub/PythonEPAM/WEEK_2",
+>>>>>>> Stashed changes
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+<<<<<<< Updated upstream
+=======
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WEEK_2" />
+      <recent name="$PROJECT_DIR$/WEEK_3" />
+    </key>
+>>>>>>> Stashed changes
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/" />
