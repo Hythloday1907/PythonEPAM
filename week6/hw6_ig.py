@@ -47,6 +47,6 @@ for elem in map_like(fun, a, b, c, d):
 
 # output:
 # 1
-# 6: 'int' object is not subscriptable
+# 6: 'int' object is not sub scriptable
 # z
-# True: 'bool' object is not subscriptable
+# True: 'bool' object is not sub scriptable
