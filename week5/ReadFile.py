@@ -8,4 +8,4 @@ def readFile(file):
             if(not key in myObject):
                 myObject[key] = value
             else:
-                print("Duplicate assignment of key '%s'" % key)
+                print("Duplicated assignment of key '%s'" % key)
