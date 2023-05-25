@@ -5,11 +5,11 @@ from hw4 import *
 
 @pytest.fixture
 def prepare_test_classes():
-    first_teacher = Teacher("Kay", "Alan")
-    second_teacher = Teacher("Liskov", "Barbara")
+    first_teacher = Teacher("Skywalker", "Luke")
+    second_teacher = Teacher("Skywalker", "Lea")
 
-    first_student = Student("Hopper", "Grace")
-    second_student = Student("Turing", "Alan")
+    first_student = Student("Solo", "Kylo")
+    second_student = Student("Solo", "Han")
 
     first_hw = Teacher.create_homework("OOP homework", 1)
     second_hw = Teacher.create_homework("Read the documentation", 5)
@@ -26,7 +26,7 @@ def prepare_test_classes():
 def test_deadline_exception():
     hw = Teacher.create_homework("Expired hw", -1)
     with pytest.raises(DeadlineError, match="You are late"):
-        Student("Green", "Robert").do_homework(hw, "solution")
+        Student("Skywalker", "Anakin").do_homework(hw, "solution")
 
 
 def test_oop(prepare_test_classes):

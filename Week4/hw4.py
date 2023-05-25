@@ -86,6 +86,7 @@ class Teacher:
             cls.homework_done.clear()
         elif homework in cls.homework_done:
             del cls.homework_done[homework]
+            ** update
 
 """
 
